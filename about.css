@@ -1,0 +1,14 @@
+.am{
+  margin-top: 260px;
+  background-color: #ff0000;
+  color: #ffffff;
+  border-radius: 13px;
+}
+.ctr-ud{
+  text-align: center;
+  text-decoration: underline;
+  text-underline-offset: 5px;
+}
+.medium{
+  font-size: 25px;
+}

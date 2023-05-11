@@ -1,0 +1,33 @@
+@media only screen and (max-width: 873px) {
+  body{
+    overflow-x: hidden !important;
+    max-width: 100vw;
+  }
+  img{
+    max-width: 95%;
+    height: auto;
+  }
+  .title{
+    max-width:90%;
+    padding: 0px;
+    padding-top: 95px; 
+    padding-left: 25px;
+    
+  }
+  .big{
+    width: 97%;
+    font-size: 1.5em;
+    word-wrap: break-word;
+  }
+  .btn-left{
+    padding:0;
+  }
+  .sub{
+    font-size: 1.3em;
+  }
+  .btn{
+    font-size: 1.3em;
+    width: 130px;
+  }
+  /*Section-Title over*/
+  
